@@ -23,3 +23,7 @@ Env File Format:
   
   	FILE_PATH=PATH/TO/THIS/PROJECT/FOLDER/
   	DRIVER_TYPE=DRIVER_TYPE (f.e. firefox, chrome)
+
+Supported Services:
+	
+	Amazon, Netflix, Opal
