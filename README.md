@@ -7,7 +7,7 @@ Install:
 	chmod -x lgn
 	touch .env
   	ADD /PATH/TO/login_tool/ to PATH
-  	Then open the .env file and store the required information for the services you want to use. Use the provided format at 	the bottom of this README.
+  	Then open the .env file and store the required information for the services you want to use. Use the provided format at the bottom of this README.
 
 Usage:
 
