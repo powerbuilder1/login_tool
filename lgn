@@ -1,0 +1,4 @@
+#!/bin/bash
+cd
+cd bin/login_tool
+python3 login_tool.py $1
