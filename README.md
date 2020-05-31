@@ -27,3 +27,7 @@ Env File Format:
 Supported Services:
 	
 	Amazon, Netflix, Opal
+
+Supported Systems:
+
+	Linux
