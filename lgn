@@ -1,4 +1,6 @@
 #!/bin/bash
 cd
-cd bin/login_tool
+source .env
+echo $FILE_PATH
+cd $FILE_PATH
 python3 login_tool.py $1
